@@ -5,3 +5,5 @@ __pycach__/
 tdata/
 test/
 *.DS_Store
+*.MP4
+*.mp4
